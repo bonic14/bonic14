@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on different open source
 - 🤔 I’m looking for help with on boarding businesses(MSMEs:Micro,Small&Medium Entreprises) on digital commerce Platforms 
 - 💬 Ask me about Data Visualiziation and Analysis ,Software development career
-- 📫 How to reach me: nicole@ict.rw
+- 📫 How to reach me: hamissanicole@gmail.com
