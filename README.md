@@ -3,7 +3,7 @@
 
 **I am a full-stack software developer/ i do Python-django-Reactjs-Nodejs-React Native and flutter** 
 
-- 🔭 I’m currently working a École 42 Paris.
+- 🔭 I’m currently a École 42 Paris.
 - 🔭 I’m currently working on eCommerce Projects,Fintech Projects and Edutech Projects.
 - 🌱 I’m currently learning c Programming
 - 🌱 I’m currently learning SaaS Business model & metrics
