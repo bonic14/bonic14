@@ -3,7 +3,7 @@
 
 **I am a full-stack software developer/ i do Python-django-Reactjs-Nodejs-React Native and flutter** 
 
-- 🔭 I’m currently at Konexio Paris.
+- 🔭 I’m currently at Schola Nova Paris.
 - 🔭 I’m currently working on eCommerce Projects,Fintech Projects and Edutech Projects
 - 🌱 I’m currently learning Ruby on Rails, NextJS and PostgreSQL 
 - 🌱 I’m currently learning SaaS Business model & metric
