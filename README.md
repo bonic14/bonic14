@@ -8,7 +8,8 @@ I’m continuously learning, motivated by challenges, and driven by the desire t
 - 🔭 I’m currently at Schola Nova Paris.
 - 🔭 I’m currently working on IT support.
 - 🔭 I’m currently working on eCommerce Projects,Fintech Projects and Edutech Projects
-- 🌱 I’m currently learning Ruby on Rails, NextJS and PostgreSQL 
+- 🌱 I’m currently learning Setting up security measures
+- 🌱 I’m currently learning Ruby on Rails, NextJS and PostgreSQ 
 - 🌱 I’m currently learning SaaS Business model & metric
 - 👯 I’m looking to collaborate on different open source
 - 🤔 I’m looking for help with on boarding businesses(MSMEs:Micro,Small&Medium Entreprises) on digital commerce Platforms 
